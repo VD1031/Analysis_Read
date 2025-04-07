@@ -1,6 +1,7 @@
-# Data Analysis Project
+# Linear Regression Project
+Description
 
-A Python script that performs data analysis on agriculture water intake data, including hypothesis testing using a z-test.
+A Python script that performs Linear regression analysis which used to predict the value of a variable based on the value of another variable.
 
 ## Getting Started
 
@@ -25,7 +26,7 @@ cd data-analysis-project
 Breakdown of Tests
 The script includes:
 
-Hypothesis testing using z-test to analyze water intake data.
+linear regression is a model that estimates the linear relationship between a scalar response and one or more explanatory variables.
 
 Data cleaning and preparation steps.
 
